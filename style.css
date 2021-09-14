@@ -1,0 +1,10 @@
+
+.jumbotron {
+    background-image: url(./img/jumbo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+rect {
+    background-image: url(./img/carrusel1.jpg);
+}
