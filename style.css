@@ -5,6 +5,14 @@
     background-size: cover;
 }
 
-rect {
-    background-image: url(./img/carrusel1.jpg);
+.fa-hotel{
+    font-size: 100px;
+}
+
+.fa-beer{
+    font-size: 120px;
+}
+
+.fa-bone {
+    font-size: 120px;
 }
